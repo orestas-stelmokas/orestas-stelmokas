@@ -1,62 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="545" viewBox="0 0 1060 545" role="img" aria-label="Orestas Stelmokas - color ASCII portrait and terminal-style GitHub profile">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="451" viewBox="0 0 860 451" role="img" aria-label="Orestas Stelmokas terminal-style GitHub profile">
 <title>Orestas Stelmokas - terminal profile</title>
-<desc>Colored ASCII art portrait made from a selfie and editable profile information.</desc>
-<style><![CDATA[
-  .mono {font-family: "DejaVu Sans Mono", "Liberation Mono", Consolas, monospace;}
-  .title {font-size:15.5px; font-weight:700;}
-  .section {font-size:13.4px; font-weight:700;}
-  .label {font-size:13.4px; font-weight:600;}
-  .val {font-size:13.4px;}
-  .small {font-size:10.5px; letter-spacing:1px;}
-]]></style>
-<rect width="1060" height="545" fill="#0d1117"/>
-<rect x="8" y="8" width="1044" height="529" rx="14" fill="#161b22" stroke="#303c50" stroke-width="1.5"/>
-<line x1="410" y1="33" x2="410" y2="517" stroke="#24344a" stroke-width="1.5"/>
-
-<circle cx="449" cy="37" r="5" fill="#f85149"/>
-<circle cx="465" cy="37" r="5" fill="#d29922"/>
-<circle cx="481" cy="37" r="5" fill="#3fb950"/>
-<text x="501" y="43" class="mono title" fill="#e6edf3">orestas@github</text>
-<text x="665" y="43" class="mono small" fill="#6e7681">~/profile</text>
-<line x1="765" y1="36" x2="1032" y2="36" stroke="#303c50"/>
-<text x="431" y="70" class="mono section" fill="#58a6ff">SYSTEM INFORMATION</text>
-<text x="431" y="95" class="mono label" fill="#ffa657">OS</text>
-<text x="587" y="95" class="mono val" fill="#a5d6ff">Arch Linux / Windows</text>
-<text x="431" y="114" class="mono label" fill="#ffa657">Host</text>
-<text x="587" y="114" class="mono val" fill="#a5d6ff">KTU · Software Systems (BSc)</text>
-<text x="431" y="133" class="mono label" fill="#ffa657">Track</text>
-<text x="587" y="133" class="mono val" fill="#a5d6ff">SKILLed FinTech Talent Program</text>
-<text x="431" y="152" class="mono label" fill="#ffa657">Academy</text>
-<text x="587" y="152" class="mono val" fill="#a5d6ff">Teltonika IoT &amp; Networking Academy</text>
-<text x="431" y="171" class="mono label" fill="#ffa657">Focus</text>
-<text x="587" y="171" class="mono val" fill="#a5d6ff">Software Development / Backend / AI</text>
-<text x="431" y="201" class="mono section" fill="#e6edf3">LANGUAGES &amp; TOOLS</text>
-<line x1="601.6" y1="196" x2="1030" y2="196" stroke="#303c50"/>
-<text x="431" y="226" class="mono label" fill="#ffa657">Code</text>
-<text x="587" y="226" class="mono val" fill="#a5d6ff">C# · C · Java · Go · Python · JS · TS</text>
-<text x="431" y="245" class="mono label" fill="#ffa657">Web</text>
-<text x="587" y="245" class="mono val" fill="#a5d6ff">HTML · CSS · React · Node.js</text>
-<text x="431" y="264" class="mono label" fill="#ffa657">Tools</text>
-<text x="587" y="264" class="mono val" fill="#a5d6ff">SQL · Git · GitHub · Docker · Firebase</text>
-<text x="431" y="283" class="mono label" fill="#ffa657">Spoken</text>
-<text x="587" y="283" class="mono val" fill="#a5d6ff">Lithuanian (native) · English (C1)</text>
-<text x="431" y="314" class="mono section" fill="#e6edf3">PROJECTS</text>
-<line x1="522.4" y1="309" x2="1030" y2="309" stroke="#303c50"/>
-<text x="431" y="340" class="mono label" fill="#ffa657">01</text>
-<text x="587" y="340" class="mono val" fill="#a5d6ff">AI Chatbot Integration for Moodle</text>
-<text x="431" y="359" class="mono label" fill="#ffa657">02</text>
-<text x="587" y="359" class="mono val" fill="#a5d6ff">SmartShop - grocery comparison app</text>
-<text x="431" y="378" class="mono label" fill="#ffa657">03</text>
-<text x="587" y="378" class="mono val" fill="#a5d6ff">Flutter fitness tracking app</text>
-<text x="431" y="409" class="mono section" fill="#e6edf3">CONTACT</text>
-<line x1="513.6" y1="404" x2="1030" y2="404" stroke="#303c50"/>
-<text x="431" y="435" class="mono label" fill="#ffa657">Email</text>
-<text x="587" y="435" class="mono val" fill="#a5d6ff">ostelmokas@gmail.com</text>
-<text x="431" y="454" class="mono label" fill="#ffa657">GitHub</text>
-<text x="587" y="454" class="mono val" fill="#a5d6ff">github.com/orestas-stelmokas</text>
-<text x="431" y="473" class="mono label" fill="#ffa657">LinkedIn</text>
-<text x="587" y="473" class="mono val" fill="#a5d6ff">linkedin.com/in/orestas-stelmokas</text>
-<rect x="431" y="497" width="600" height="24" rx="4" fill="#0d1117"/>
-<text x="440" y="513" class="mono small" fill="#3fb950">SOFTWARE SYSTEMS STUDENT  //  BUILDING &amp; LEARNING</text>
+<desc>Terminal-style profile card with editable information and no portrait.</desc>
+<style><![CDATA[.mono {font-family:"DejaVu Sans Mono","Liberation Mono",Consolas,monospace;}.title{font-size:15.5px;font-weight:700;}.section{font-size:13.5px;font-weight:700;letter-spacing:0.3px;}.label{font-size:13.4px;font-weight:600;}.val{font-size:13.4px;}.small{font-size:10.5px;letter-spacing:1px;}]]></style>
+<rect width="860" height="451" fill="#0d1117"/>
+<rect x="18" y="18" width="824" height="415" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="48" cy="47" r="5" fill="#f85149"/>
+<circle cx="64" cy="47" r="5" fill="#d29922"/>
+<circle cx="80" cy="47" r="5" fill="#3fb950"/>
+<text x="102" y="53" class="mono title" fill="#e6edf3">orestas@github</text>
+<text x="266" y="53" class="mono small" fill="#6e7681">~/profile</text>
+<line x1="356" y1="46" x2="818" y2="46" stroke="#30363d" stroke-width="1.2"/>
+<text x="58" y="86" class="mono section" fill="#58a6ff">SYSTEM INFORMATION</text>
+<line x1="224.20000000000002" y1="81" x2="812" y2="81" stroke="#30363d" stroke-width="1.2"/>
+<text x="58" y="111" class="mono label" fill="#ffa657">OS</text>
+<text x="210" y="111" class="mono val" fill="#a5d6ff">Arch Linux / Windows</text>
+<text x="58" y="130" class="mono label" fill="#ffa657">Host</text>
+<text x="210" y="130" class="mono val" fill="#a5d6ff">KTU · Software Systems (BSc)</text>
+<text x="58" y="149" class="mono label" fill="#ffa657">Track</text>
+<text x="210" y="149" class="mono val" fill="#a5d6ff">SKILLed FinTech Talent Program</text>
+<text x="58" y="168" class="mono label" fill="#ffa657">Academy</text>
+<text x="210" y="168" class="mono val" fill="#a5d6ff">Teltonika IoT &amp; Networking Academy</text>
+<text x="58" y="187" class="mono label" fill="#ffa657">Focus</text>
+<text x="210" y="187" class="mono val" fill="#a5d6ff">Software Development / Backend / AI</text>
+<text x="58" y="218" class="mono section" fill="#58a6ff">LANGUAGES &amp; TOOLS</text>
+<line x1="216.3" y1="213" x2="812" y2="213" stroke="#30363d" stroke-width="1.2"/>
+<text x="58" y="243" class="mono label" fill="#ffa657">Code</text>
+<text x="210" y="243" class="mono val" fill="#a5d6ff">C# · C · Java · Go · Python · JS · TS</text>
+<text x="58" y="262" class="mono label" fill="#ffa657">Web</text>
+<text x="210" y="262" class="mono val" fill="#a5d6ff">HTML · CSS · React · Node.js</text>
+<text x="58" y="281" class="mono label" fill="#ffa657">Tools</text>
+<text x="210" y="281" class="mono val" fill="#a5d6ff">SQL · Git · GitHub · Docker · Firebase</text>
+<text x="58" y="300" class="mono label" fill="#ffa657">Spoken</text>
+<text x="210" y="300" class="mono val" fill="#a5d6ff">Lithuanian (native) · English (C1)</text>
+<text x="58" y="331" class="mono section" fill="#58a6ff">CONTACT</text>
+<line x1="137.3" y1="326" x2="812" y2="326" stroke="#30363d" stroke-width="1.2"/>
+<text x="58" y="356" class="mono label" fill="#ffa657">Email</text>
+<text x="210" y="356" class="mono val" fill="#a5d6ff">ostelmokas@gmail.com</text>
+<text x="58" y="375" class="mono label" fill="#ffa657">GitHub</text>
+<text x="210" y="375" class="mono val" fill="#a5d6ff">github.com/orestas-stelmokas</text>
+<text x="58" y="394" class="mono label" fill="#ffa657">LinkedIn</text>
+<text x="210" y="394" class="mono val" fill="#a5d6ff">linkedin.com/in/orestas-stelmokas</text>
+<rect x="58" y="401" width="754" height="24" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<text x="68" y="417" class="mono small" fill="#3fb950">SOFTWARE SYSTEMS STUDENT  //  BUILDING &amp; LEARNING</text>
 </svg>
