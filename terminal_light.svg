@@ -22,7 +22,7 @@
 <text x="58" y="168" class="mono label" fill="#bc4c00">Academy</text>
 <text x="210" y="168" class="mono val" fill="#0550ae">Teltonika IoT &amp; Networking Academy</text>
 <text x="58" y="187" class="mono label" fill="#bc4c00">Focus</text>
-<text x="210" y="187" class="mono val" fill="#0550ae">Software Development / Backend / AI</text>
+<text x="210" y="187" class="mono val" fill="#0550ae">Software Development / Web Development</text>
 <text x="58" y="218" class="mono section" fill="#0969da">LANGUAGES &amp; TOOLS</text>
 <line x1="216.3" y1="213" x2="812" y2="213" stroke="#d0d7de" stroke-width="1.2"/>
 <text x="58" y="243" class="mono label" fill="#bc4c00">Code</text>
