@@ -15,12 +15,13 @@
 <line x1="224.20000000000002" y1="81" x2="812" y2="81" stroke="#d0d7de" stroke-width="1.2"/>
 <text x="58" y="111" class="mono label" fill="#bc4c00">OS</text>
 <text x="210" y="111" class="mono val" fill="#0550ae">Arch Linux / Windows</text>
-<text x="58" y="130" class="mono label" fill="#bc4c00">Host</text>
-<text x="210" y="130" class="mono val" fill="#0550ae">KTU · Software Systems (BSc)</text>
-<text x="58" y="149" class="mono label" fill="#bc4c00">Track</text>
+<text x="58" y="130" class="mono label" fill="#bc4c00">Education</text>
+<text x="210" y="130" class="mono val" fill="#0550ae">KTU · Software Systems (BSc 3rd year)</text>
+<text x="58" y="149" class="mono label" fill="#bc4c00">Additional</text>
 <text x="210" y="149" class="mono val" fill="#0550ae">SKILLed FinTech Talent Program</text>
 <text x="58" y="168" class="mono label" fill="#bc4c00">Academy</text>
 <text x="210" y="168" class="mono val" fill="#0550ae">Teltonika IoT &amp; Networking Academy</text>
+<text x="488" y="168" class="mono val" fill="#0969da">(ongoing)</text>
 <text x="58" y="187" class="mono label" fill="#bc4c00">Focus</text>
 <text x="210" y="187" class="mono val" fill="#0550ae">Software Development / Web Development</text>
 <text x="58" y="218" class="mono section" fill="#0969da">LANGUAGES &amp; TOOLS</text>
